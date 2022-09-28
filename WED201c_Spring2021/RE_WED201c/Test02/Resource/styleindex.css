@@ -1,0 +1,115 @@
+.footer{
+    background-color: rgb(13, 201, 13);
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer .col-md-7{
+    text-align: left;
+}
+.footer .col-md-7 p{
+    color: white;
+    margin-left: 100px;
+}
+.footer .col-md-7 .img{
+    position: absolute;
+    left: 60px;
+    top: 65px;
+}
+.footer .col-md-5 p{
+    text-align: center;
+    color: white;
+}
+.footer .col-md-5 .imgs{
+    position: absolute;
+    left: 180px;
+    top: 80px;
+}
+.footer .col-md-5 .imgss{
+    position: absolute;
+    left: 250px;
+    top: 80px;
+}
+
+/* =================================== */
+
+.middle {
+    background-color: pink;
+}
+
+.firstcontent{
+    padding-top: 10px;
+    background-color: pink;
+}
+
+.midcontent{
+    background-color: #ffebeb;
+}
+
+.helloflower img{
+    margin-top: 10px;
+    border: solid 1px blue;
+}
+
+.product{
+    border: 1px solid white;
+    border-radius: 30px;
+    background-color: white;
+    text-align: center;
+}
+
+.allproduct{
+    padding: 40px;
+    border: solid 1px yellow;
+}
+
+
+
+.allproduct img{
+    margin-top: 10px;
+    width: 60%;
+}
+
+.product h2{
+    text-align: center;
+}
+
+.product p{
+    text-align: center;
+    color:rgb(13, 201, 13);
+    font-size: large;
+}
+
+.product button {
+    border-radius: 30px;
+    border:1px solid orange;
+    margin-bottom: 10px;
+}
+
+/* //=========================================== */
+
+.header{
+    background-color: rgb(255, 130, 151);
+    color: white;
+    font-style: italic;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin: auto;
+}
+
+.header button{
+    border-radius: 30px;
+}
+
+.header img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.imgheader{
+    margin: auto;
+    background-color: rgb(255, 130, 151);
+    padding: 3% 7% 3% 7%;
+}

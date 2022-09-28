@@ -1,0 +1,65 @@
+.banner img{
+    width: 100%;
+}
+
+.item{
+    display: inline;
+    margin-bottom: 20px;
+}
+
+.item img{
+    width: 100px;
+    height: 90px;
+}
+
+.item p{
+    font-size: 18px;
+}
+
+.favor-place h2{
+    color: orange;
+    border-bottom: solid 5px rgb(206, 206, 255);
+}
+
+.title-price, .title-hotel h1{
+    text-align: center;
+    color:rgb(206, 206, 255);
+    font-size: 30px;
+}
+
+.hotel{
+    margin-bottom: 20px;
+} 
+
+.hotel h3{
+    text-align: center;
+}
+
+.text-in-img{
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-left: 20px;
+}
+
+.table-price{
+    text-align: center;
+    font-size: 14px;
+    color: orange;
+}
+
+.table-price th{
+    font-size: 16.5px;
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    background-color: grey;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

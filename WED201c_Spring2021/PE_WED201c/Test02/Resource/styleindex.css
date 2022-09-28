@@ -1,0 +1,53 @@
+.container{
+    background-color: #333333;
+    color: white;
+}
+
+.footer{
+    background-color: gray;
+    border-top: 1px solid yellow;
+    padding-top: 20px;
+}
+
+.row{
+    margin-top: 20px;
+}
+
+.row h2{
+    color: yellow;
+    text-align: center;
+}
+
+input{
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.mycode{
+    display: none; 
+    background-color: #333333;
+    text-align: center;
+    color: white;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mycode h4, th {
+    color: yellow;
+    text-align: center;
+}
+
+.mycode table th, tr, td {
+    border: 1px solid white;
+}
+
+.leftintable{
+    text-align: left;
+}

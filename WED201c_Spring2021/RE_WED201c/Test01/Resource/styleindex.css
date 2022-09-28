@@ -1,0 +1,17 @@
+.productitem{
+    text-align: center;
+    color: blue;
+}
+
+.service-item h2 {
+    font-size: large;
+}
+
+.service-item p {
+    color: green;
+    font-size: large;
+}
+
+.footer{
+    background-color: whitesmoke;
+}
