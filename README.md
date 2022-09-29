@@ -13,6 +13,6 @@
 5| [WED201 Spring 2021](https://github.com/ptnghia3502/web-design-basic/tree/main/WED201c_Spring2021) | Source code in learning design web
 
 ## ✔️ License & Copyright
-&copy; 2022 Pham Trong Nghia Licensed under the [GPL-3.0 LICENSE](https://github.com/ptnghia3502/object-oriented-programming/blob/main/README.md).
+&copy; 2022 Pham Trong Nghia Licensed under the [GPL-3.0 LICENSE](https://github.com/ptnghia3502/web-design-basic/blob/main/LICENSE).
 
 > 👌 Feel free to use my repository and star it if you find something interesting 😄
